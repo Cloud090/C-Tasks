@@ -1,0 +1,15 @@
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\bin\Debug\net7.0\Task3.exe
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\bin\Debug\net7.0\Task3.dll
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\bin\Debug\net7.0\Task3.pdb
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.dll
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.pdb
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task3\obj\Debug\net7.0\ref\Task3.dll

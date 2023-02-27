@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKrgzbUM4ko35GNsBm4aEQtpmGrYnPmD3fWx73DoKUdvrVzr/FP+6Pqdvl2AS/uI8eUs7tOd8W5v1uNl6CIoQg==",
+  "dgSpecHash": "cKsOAYBe6E5m8NqHlTRt2zoGz9tCKoYVGIeAE3H3pNMYZ2fyP4NR53l/DFxX034dLMuNisqbYk6+Qu4cnE620A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joe\\Documents\\SE\\ISE102\\Assesment 1\\Tasks\\Task1\\Task1.csproj",
+  "projectFilePath": "/home/ludiment/C-Tasks/Tasks/Task1/Task1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

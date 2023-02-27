@@ -11,9 +11,9 @@ public class Calculator
             do
             {
                 int multiply;
-                int Add;
-                int Subtract;
-                int Divide;
+                int add;
+                int subtract;
+                int divide;
 
                 
                 Console.WriteLine ("Input 1:");
@@ -25,15 +25,15 @@ public class Calculator
                 Console.WriteLine("Second Input is: " + Input2);
                 
                 multiply = Input1 * Input2; //Multiplying inputted numbers
-                Add = Input1 + Input2; // Adding Inputted numbers
-                Subtract = Input1 - Input2; //Subtracting Inputted numbers
-                Divide = Input1 / Input2; // Dividing inputted numbers
+                add = Input1 + Input2; // Adding Inputted numbers
+                subtract = Input1 - Input2; //Subtracting Inputted numbers
+                divide = Input1 / Input2; // Dividing inputted numbers
                 
                 Console.WriteLine("Results:"); //Labeling the following as the results clearly
                 Console.WriteLine("Multiplication: " + Input1 + " X " + Input2 + " = " + multiply); //Displaying maths method & user inputs with answers for multiplication,subtraction,addition & division
-                Console.WriteLine("Addition: " + Input1 + " + " + Input2 + " = " + Add);
-                Console.WriteLine("Subtraction: " + Input1 + " - " + Input2 + " = " + Subtract);
-                Console.WriteLine("Division: " + Input1 + " / " + Input2 + " = " + Divide);
+                Console.WriteLine("Addition: " + Input1 + " + " + Input2 + " = " + add);
+                Console.WriteLine("Subtraction: " + Input1 + " - " + Input2 + " = " + subtract);
+                Console.WriteLine("Division: " + Input1 + " / " + Input2 + " = " + divide);
                 
                 
                 Console.Write("Do you want to do another calculation?(y/n):");

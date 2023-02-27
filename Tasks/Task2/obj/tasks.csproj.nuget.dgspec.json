@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joe\\Documents\\SE\\ISE102\\Assesment 1\\Tasks\\Task2\\tasks.csproj": {}
+    "/home/ludiment/C-Tasks/Tasks/Task2/tasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joe\\Documents\\SE\\ISE102\\Assesment 1\\Tasks\\Task2\\tasks.csproj": {
+    "/home/ludiment/C-Tasks/Tasks/Task2/tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joe\\Documents\\SE\\ISE102\\Assesment 1\\Tasks\\Task2\\tasks.csproj",
+        "projectUniqueName": "/home/ludiment/C-Tasks/Tasks/Task2/tasks.csproj",
         "projectName": "tasks",
-        "projectPath": "C:\\Users\\joe\\Documents\\SE\\ISE102\\Assesment 1\\Tasks\\Task2\\tasks.csproj",
-        "packagesPath": "C:\\Users\\joe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joe\\Documents\\SE\\ISE102\\Assesment 1\\Tasks\\Task2\\obj\\",
+        "projectPath": "/home/ludiment/C-Tasks/Tasks/Task2/tasks.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/ludiment/C-Tasks/Tasks/Task2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }

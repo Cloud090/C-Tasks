@@ -1,15 +1,30 @@
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\bin\Debug\net7.0\Task1.exe
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\bin\Debug\net7.0\Task1.deps.json
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\bin\Debug\net7.0\Task1.dll
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\bin\Debug\net7.0\Task1.pdb
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.dll
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\refint\Task1.dll
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.pdb
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
-C:\Users\joe\Documents\SE\ISE102\Assesment 1\Tasks\Task1\obj\Debug\net7.0\ref\Task1.dll
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/bin/Debug/net7.0/Task1.exe
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/bin/Debug/net7.0/Task1.deps.json
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/bin/Debug/net7.0/Task1.dll
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/bin/Debug/net7.0/Task1.pdb
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.dll
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/refint/Task1.dll
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.pdb
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+C:/Users/joe/Documents/SE/ISE102/Assesment 1/Tasks/Task1/obj/Debug/net7.0/ref/Task1.dll
+/home/ludiment/C-Tasks/Tasks/Task1/bin/Debug/net7.0/Task1
+/home/ludiment/C-Tasks/Tasks/Task1/bin/Debug/net7.0/Task1.deps.json
+/home/ludiment/C-Tasks/Tasks/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/home/ludiment/C-Tasks/Tasks/Task1/bin/Debug/net7.0/Task1.dll
+/home/ludiment/C-Tasks/Tasks/Task1/bin/Debug/net7.0/Task1.pdb
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.dll
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/refint/Task1.dll
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.pdb
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/home/ludiment/C-Tasks/Tasks/Task1/obj/Debug/net7.0/ref/Task1.dll

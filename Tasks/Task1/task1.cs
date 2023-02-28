@@ -10,22 +10,9 @@ public class Calculator
         string value;
             do
             {
-                int multiply;
-                int add;
-                int subtract;
-                int divide;
-
                 
-                /* Console.WriteLine ("Input 1:");
-                int Input1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("First Input is: " + Input1);
-
-                Console.WriteLine ("Input 2:");
-                int Input2 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Second Input is: " + Input2); */
-
                 Console.WriteLine ("Input 1:");
-                string input1Verify = Console.ReadLine();
+                string input1Verify = Console.ReadLine()!;
                 int input1;
                 
 
@@ -33,28 +20,28 @@ public class Calculator
 
                 while (isNumerical == false) {
                     Console.WriteLine("Oh no, that's not a number! Try Again:");
-                    input1Verify = Console.ReadLine();
+                    input1Verify = Console.ReadLine()!;
                     isNumerical = int.TryParse(input1Verify, out input1);
                 }
                 Console.WriteLine("First Input is: " + input1);
 
                 Console.WriteLine ("Input 2:");
-                string input2Verify = Console.ReadLine();
+                string input2Verify = Console.ReadLine()!;
                 int input2;
 
-                bool isNumerical2 = int.TryParse(input2Verify, out input2);
+                bool isNumerical2 = int.TryParse(input2Verify, out input2)!;
 
                 while (isNumerical2 == false) {
                     Console.WriteLine("Oh no, that's not a number! Try Again:");
-                    input2Verify = Console.ReadLine();
+                    input2Verify = Console.ReadLine()!;
                     isNumerical2 = int.TryParse(input2Verify, out input2);
                 }
                 Console.WriteLine("Second Input is: " + input2);
                 
-                multiply = input1 * input2; //Multiplying inputted numbers
-                add = input1 + input2; // Adding Inputted numbers
-                subtract = input1 - input2; //Subtracting Inputted numbers
-                divide = input1 / input2; // Dividing inputted numbers
+                int multiply = input1 * input2; //Multiplying inputted numbers
+                int add = input1 + input2; // Adding Inputted numbers
+                int subtract = input1 - input2; //Subtracting Inputted numbers
+                int divide = input1 / input2; // Dividing inputted numbers
                 
                 Console.WriteLine("Results:"); //Labeling the following as the results clearly
                 Console.WriteLine("Multiplication: " + input1 + " X " + input2 + " = " + multiply); //Displaying maths method & user inputs with answers for multiplication,subtraction,addition & division

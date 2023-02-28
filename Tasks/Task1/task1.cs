@@ -26,41 +26,41 @@ public class Calculator
 
                 Console.WriteLine ("Input 1:");
                 string input1Verify = Console.ReadLine();
-                int Input1;
+                int input1;
                 
 
-                bool isNumerical = int.TryParse(input1Verify, out Input1);
+                bool isNumerical = int.TryParse(input1Verify, out input1);
 
                 while (isNumerical == false) {
                     Console.WriteLine("Oh no, that's not a number! Try Again:");
                     input1Verify = Console.ReadLine();
-                    isNumerical = int.TryParse(input1Verify, out Input1);
+                    isNumerical = int.TryParse(input1Verify, out input1);
                 }
-                Console.WriteLine("First Input is: " + Input1);
+                Console.WriteLine("First Input is: " + input1);
 
                 Console.WriteLine ("Input 2:");
                 string input2Verify = Console.ReadLine();
-                int Input2;
+                int input2;
 
-                bool isNumerical2 = int.TryParse(input2Verify, out Input2);
+                bool isNumerical2 = int.TryParse(input2Verify, out input2);
 
                 while (isNumerical2 == false) {
                     Console.WriteLine("Oh no, that's not a number! Try Again:");
                     input2Verify = Console.ReadLine();
-                    isNumerical2 = int.TryParse(input2Verify, out Input2);
+                    isNumerical2 = int.TryParse(input2Verify, out input2);
                 }
-                Console.WriteLine("Second Input is: " + Input2);
+                Console.WriteLine("Second Input is: " + input2);
                 
-                multiply = Input1 * Input2; //Multiplying inputted numbers
-                add = Input1 + Input2; // Adding Inputted numbers
-                subtract = Input1 - Input2; //Subtracting Inputted numbers
-                divide = Input1 / Input2; // Dividing inputted numbers
+                multiply = input1 * input2; //Multiplying inputted numbers
+                add = input1 + input2; // Adding Inputted numbers
+                subtract = input1 - input2; //Subtracting Inputted numbers
+                divide = input1 / input2; // Dividing inputted numbers
                 
                 Console.WriteLine("Results:"); //Labeling the following as the results clearly
-                Console.WriteLine("Multiplication: " + Input1 + " X " + Input2 + " = " + multiply); //Displaying maths method & user inputs with answers for multiplication,subtraction,addition & division
-                Console.WriteLine("Addition: " + Input1 + " + " + Input2 + " = " + add);
-                Console.WriteLine("Subtraction: " + Input1 + " - " + Input2 + " = " + subtract);
-                Console.WriteLine("Division: " + Input1 + " / " + Input2 + " = " + divide);
+                Console.WriteLine("Multiplication: " + input1 + " X " + input2 + " = " + multiply); //Displaying maths method & user inputs with answers for multiplication,subtraction,addition & division
+                Console.WriteLine("Addition: " + input1 + " + " + input2 + " = " + add);
+                Console.WriteLine("Subtraction: " + input1 + " - " + input2 + " = " + subtract);
+                Console.WriteLine("Division: " + input1 + " / " + input2 + " = " + divide);
                 
                 
                 Console.Write("Do you want to do another calculation?(y/n):");

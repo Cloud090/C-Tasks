@@ -11,6 +11,12 @@ public class Calculator //Declairing app Calculator
             do // Doing the actions within here whilst value = Y/y
             {
                 
+                int multiply;
+                int divide;
+                int add;
+                int subtract;
+                string eDivide;
+
                 Console.WriteLine ("Input 1:"); //Giving user prompt to enter the first number
                 string input1Verify = Console.ReadLine()!; //reading the input saving in a verify variable string
                 int input1; // int input1 will convert the verify variable to this if no errors
@@ -37,19 +43,32 @@ public class Calculator //Declairing app Calculator
                     isNumerical2 = int.TryParse(input2Verify, out input2);
                 }
                 Console.WriteLine("Second Input is: " + input2);
-                
-                int multiply = input1 * input2; // declaring variable as integer & Multiplying inputted numbers
-                int add = input1 + input2; // Adding Inputted numbers
-                int subtract = input1 - input2; //Subtracting Inputted numbers
-                int divide = input1 / input2; // Dividing inputted numbers
-                
+
+                    multiply = input1 * input2; // declaring variable as integer & Multiplying inputted numbers
+                    add = input1 + input2; // Adding Inputted numbers
+                    subtract = input1 - input2; //Subtracting Inputted numbers
+
                 // Outputting all results line by line for user to see
                 Console.WriteLine("Results:"); //Labeling the following as the results clearly
                 Console.WriteLine("Multiplication: " + input1 + " X " + input2 + " = " + multiply); //Displaying maths method & user inputs with answers for multiplication,subtraction,addition & division
                 Console.WriteLine("Addition: " + input1 + " + " + input2 + " = " + add);
                 Console.WriteLine("Subtraction: " + input1 + " - " + input2 + " = " + subtract);
-                Console.WriteLine("Division: " + input1 + " / " + input2 + " = " + divide);
+                /* Dividing by 0 causes an error and the program to close. In order to prevent the program exiting it checks the user input and if
+                the second input is 0 it will let the user know its a math error and print the outputs for everything else */
+                if (input2 == 0) {
+
+                    Console.WriteLine("Division: " + input1 + " / " + input2 + " = " + " Math Error! Cannot divide by 0");
+                }
+                else {
+                    
+                    divide = input1 / input2; // Dividing inputted numbers
+                    Console.WriteLine("Division: " + input1 + " / " + input2 + " = " + divide);
+                }
                 
+
+                multiply = input1 * input2; // declaring variable as integer & Multiplying inputted numbers
+                add = input1 + input2; // Adding Inputted numbers
+                subtract = input1 - input2; //Subtracting Inputted numbers
                 // Asking the user if they want to restart with a new calculation
                 Console.Write("Do you want to do another calculation?(y/n):");
                 value = Console.ReadLine()!; // Storing their answer

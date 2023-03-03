@@ -1,0 +1,5 @@
+/home/ludiment/C-Tasks/Tasks/T1Gui/obj/Debug/net7.0/T1Gui.csproj.AssemblyReference.cache
+/home/ludiment/C-Tasks/Tasks/T1Gui/obj/Debug/net7.0/T1Gui.GeneratedMSBuildEditorConfig.editorconfig
+/home/ludiment/C-Tasks/Tasks/T1Gui/obj/Debug/net7.0/T1Gui.AssemblyInfoInputs.cache
+/home/ludiment/C-Tasks/Tasks/T1Gui/obj/Debug/net7.0/T1Gui.AssemblyInfo.cs
+/home/ludiment/C-Tasks/Tasks/T1Gui/obj/Debug/net7.0/T1Gui.csproj.CoreCompileInputs.cache

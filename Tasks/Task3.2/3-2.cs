@@ -8,7 +8,7 @@ public class Pass
     static void Main()
     {
         Console.WriteLine("Password must contain at least 1: letter, number & symbol"); // Printing password requirements for the user to understand
-        Console.WriteLine("Enter Password:"); // prompt to enter password
+        Console.Write("Enter Password: "); // prompt to enter password
         string password = Console.ReadLine()!; // Taking user input saving as a string
 
         var hasNumber = new Regex(@"[0-9]+"); // Regex to check if a string has a number in it. Storing for password validation
@@ -23,7 +23,7 @@ public class Pass
         while (passRules == false) { // If password doesn't meet the rules it will enter this loop
             Console.WriteLine("Remember your password must contain at least 1: letter, number & symbol"); // Reminder of password requirements
             Console.WriteLine("Your password doesn't meet the requirements. Try Again: "); // Prompt
-            Console.WriteLine("Enter Password:"); 
+            Console.Write("Enter Password: "); 
             password = Console.ReadLine()!; // Taking a new password input & overwriting the password vaiable
             passRules = hasNumber.IsMatch(password) && hasUpperChar.IsMatch(password) && incSymbol.IsMatch(password) 
             && hasMinimum3Chars.IsMatch(password); // Validating
@@ -34,7 +34,7 @@ public class Pass
             string passVerify; // variable to verify the password input
             do
             {
-                Console.WriteLine("Enter Password:");
+                Console.Write("Enter Password: ");
                 passVerify = Console.ReadLine()!;
                 if (passVerify == password){ // Verifying the password entered for the 2 & 3 time match the first input
                     count++; // Adding 1 to count if sucessful

@@ -1,0 +1,15 @@
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.csproj.AssemblyReference.cache
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.AssemblyInfoInputs.cache
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.AssemblyInfo.cs
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.csproj.CoreCompileInputs.cache
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/bin/Debug/net7.0/Mod4
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/bin/Debug/net7.0/Mod4.deps.json
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/bin/Debug/net7.0/Mod4.runtimeconfig.json
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/bin/Debug/net7.0/Mod4.dll
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/bin/Debug/net7.0/Mod4.pdb
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.dll
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/refint/Mod4.dll
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.pdb
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/Mod4.genruntimeconfig.cache
+/home/ludiment/C-Tasks/Tasks/Class/Mod2/Mod4/obj/Debug/net7.0/ref/Mod4.dll
